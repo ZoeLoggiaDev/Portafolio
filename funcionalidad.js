@@ -103,7 +103,7 @@ function resolver(){
     var res = 0
     switch(operacion){
         case "+":
-            res = parseFloat(operandoA) + (operandoB)
+            res = parseFloat(operandoA) + parseFloat(operandoB)
             break
 
         case "-":

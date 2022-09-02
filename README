@@ -1,0 +1,27 @@
+<!--Title-->
+![Banner]
+(https://imgur.com/1GVxkNJ)
+
+<!--Project Description-->
+## Description
+--- 
+
+The JavaScript calculator is a quite common project among beginners and students, and each have their
+reasons to do it. My goal for this project was to fully understand how the JavaScript code could be
+integrated to the visual part of the project to make it interactive for the users. 
+In addition, I counted with the help of fellow more advanced colleagues and the Calculator ended up being
+a great mediatory for us to get familiarized with Git and Github and making our first commits. 
+
+<!--Usage-->
+## How to use
+---
+
+Anyone can make use of this calculator by simply opening the following link: 
+
+Simply click on the numerical and operator buttons to calculate. To clear off the screen and restart, click on the 'C' button on the bottom left corner. It can be used as many times as desired.
+
+<!--Additional information-->
+## Additional Information
+
+This project was built in the text editor Visual Studio Code (version 1.71) with Windows 10 as the opperative system. 
+
